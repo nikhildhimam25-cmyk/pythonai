@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>forms</title>
+</head>
+<body>
+    <h1>forms in html</h1>
+    <form action="/submit.php">submit 
+        <div>
+            <label for ="name">name</label>
+            <input id = "name" type="text" placeholder="enter name"
+            required>
+        </div>
+        <div>
+            <label for ="phone">phone</label>
+            <input id = "phone" type="tel" placeholder="enter phone number"
+            required>
+        </div>
+        <div>
+            <label for ="email">email</label>
+            <input id = "email" type="email" placeholder="enter email"
+            required>
+        </div>
+        <div>
+            <label for ="date">date</label>
+            <input id = "date" type="date" placeholder="selectt date"
+            required>
+        </div>
+        <div>
+            <label FOR ="gender">gender</label>
+            <select id="gender" required>
+                <option value="" disabled selected>select gender</option>
+            <option value="male">male</option>
+            <option value="female">female</option>
+            <option value="other">other</option>
+            </select>
+        </div>
+<div>
+    <p>subscription plan</p>
+    <input id="basic" type="radio" name="subscription"
+    value="basic">
+    <label for="basic">Basic</label>
+    <input id="premium" type="radio" name="subscription"
+    value="premium">
+    <label for="premium">premium</label>
+    <input id="vip" type="radio" name="subscription"
+    value="vip">
+    <label for="vip">vip</label>
+</div>
+<div>
+    <input id="terms" type="checkbox" required>
+    <label for="terms">i agreed with terms and conditions</label>
+</div>
+<div>
+    <label for="comments">if any comments</label>
+    <textarea id="comments" placeholder="enter your comments"
+    rows="4"></textarea>
+</div>
+<div>
+    <button type="submit" >submit</button>
+</div>
+   </form>
+</html>

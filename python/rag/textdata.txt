@@ -1,0 +1,2 @@
+Data ingestion is the automated process of transporting, cleansing, and loading data from various sources (databases, APIs, files)
+into a centralized repository, such as a data warehouse or lake, for analysis and storage. 

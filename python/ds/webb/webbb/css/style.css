@@ -1,0 +1,166 @@
+/* Google font-like clean look */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Tahoma, sans-serif;
+}
+
+/* Body */
+body {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: #e5e7eb;
+    min-height: 100vh;
+}
+
+/* Header */
+header {
+    background: linear-gradient(90deg, #2563eb, #38bdf8);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #0ea5e9;
+}
+
+header h1 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+/* Navigation */
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    transition: color 0.3s, border-bottom 0.3s;
+    cursor: grab;
+    user-select: none
+    
+}
+
+nav a:hover {
+    color: #0f172a;
+    border-bottom: 2px solid #0f172a;
+}
+
+/* Main content */
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+/* Sections */
+section {
+    background: #020617;
+    padding: 25px;
+    margin-bottom: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Headings */
+h1, h2 {
+    color: #38bdf8;
+    margin-bottom: 15px;
+}
+
+h2 {
+    border-bottom: 2px solid #334155;
+    padding-bottom: 5px;
+}
+
+/* Paragraph */
+p {
+    color: #cbd5f5;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Image */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: 4px solid #38bdf8;
+}
+
+/* Project list */
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    color: #e5e7eb;
+}
+
+/* Skills table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th {
+    background: #020617;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+td {
+    padding: 12px;
+    background: #020617;
+    border-bottom: 1px solid #ffffff;
+}
+
+tbody tr:hover {
+    background: #1e293b;
+}
+
+/* CONTACT PAGE STYLING */
+body > a {
+    display: inline-block;
+    margin: 20px;
+    padding: 12px 20px;
+    background: linear-gradient(90deg, #22c55e, #4ade80);
+    color: #022c22;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Instagram button color */
+body > a:nth-of-type(2) {
+    background: linear-gradient(90deg, #ec4899, #f97316);
+    color: white;
+}
+
+body > a:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+    body > a:nth-of-type(2) {
+    background: linear-gradient(90deg, #ec4899, #f97316);
+    color: white;
+}
+
+/* Center contact page content */
+body h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+
+    img {
+        width: 150px;
+        height: auto;
+    }
+}

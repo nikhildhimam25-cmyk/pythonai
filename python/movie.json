@@ -1,0 +1,20 @@
+[
+    {
+        "movie": "bridge to terabithia",
+        "release year": 2014,
+        "duration": 128,
+        "genres": "love,friendship"
+    },
+    {
+        "movie": "me before you",
+        "release year": 2020,
+        "duration": 145,
+        "genres": "love,heartbreak"
+    },
+    {
+        "movie": "tenet",
+        "release year": 2020,
+        "duration": 151,
+        "genres": "action,science"
+    }
+]

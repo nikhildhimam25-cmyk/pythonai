@@ -1,0 +1,105 @@
+State,District,Earthquake_Risk,Flood_Risk,Cyclone_Risk
+Andaman and Nicobar Islands,North and Middle Andaman,Very High,Moderate,Very High
+Andaman and Nicobar Islands,South Andaman,Very High,Moderate,Very High
+Andaman and Nicobar Islands,Nicobar,Very High,Moderate,Very High
+Andhra Pradesh,Anantapur,Moderate,Low,Low
+Andhra Pradesh,Chittoor,Moderate,Low,Moderate
+Andhra Pradesh,East Godavari,Moderate,High,Very High
+Andhra Pradesh,Guntur,Moderate,Moderate,High
+Andhra Pradesh,Kadapa,Moderate,Low,Low
+Andhra Pradesh,Krishna,Moderate,High,Very High
+Andhra Pradesh,Kurnool,Moderate,Low,Low
+Andhra Pradesh,Nellore,Moderate,Moderate,Very High
+Andhra Pradesh,Prakasam,Moderate,Moderate,High
+Andhra Pradesh,Srikakulam,Moderate,High,Very High
+Andhra Pradesh,Visakhapatnam,Moderate,High,Very High
+Andhra Pradesh,Vizianagaram,Moderate,Moderate,High
+Arunachal Pradesh,Anjaw,Very High,Moderate,Low
+Arunachal Pradesh,Changlang,Very High,Moderate,Low
+Arunachal Pradesh,Dibang Valley,Very High,Moderate,Low
+Arunachal Pradesh,East Kameng,Very High,Moderate,Low
+Arunachal Pradesh,East Siang,Very High,High,Low
+Arunachal Pradesh,Kamle,Very High,Moderate,Low
+Arunachal Pradesh,Kra Daadi,Very High,Moderate,Low
+Arunachal Pradesh,Kurung Kumey,Very High,Moderate,Low
+Arunachal Pradesh,Lepa Rada,Very High,Moderate,Low
+Arunachal Pradesh,Lohit,Very High,Moderate,Low
+Arunachal Pradesh,Longding,Very High,Moderate,Low
+Arunachal Pradesh,Lower Dibang Valley,Very High,High,Low
+Arunachal Pradesh,Lower Siang,Very High,High,Low
+Arunachal Pradesh,Lower Subansiri,Very High,Moderate,Low
+Arunachal Pradesh,Namsai,Very High,Moderate,Low
+Arunachal Pradesh,Pakke Kessang,Very High,Moderate,Low
+Arunachal Pradesh,Papum Pare,Very High,Moderate,Low
+Arunachal Pradesh,Shi Yomi,Very High,Moderate,Low
+Arunachal Pradesh,Siang,Very High,High,Low
+Arunachal Pradesh,Tawang,Very High,Low,Low
+Arunachal Pradesh,Tirap,Very High,Moderate,Low
+Arunachal Pradesh,Upper Dibang Valley,Very High,Low,Low
+Arunachal Pradesh,Upper Siang,Very High,Low,Low
+Arunachal Pradesh,Upper Subansiri,Very High,Moderate,Low
+Arunachal Pradesh,West Kameng,Very High,Moderate,Low
+Arunachal Pradesh,West Siang,Very High,High,Low
+Assam,Baksa,Very High,Very High,Low
+Assam,Barpeta,Very High,Very High,Low
+Assam,Biswanath,Very High,Very High,Low
+Assam,Bongaigaon,Very High,High,Low
+Assam,Cachar,Very High,High,Low
+Assam,Charaideo,Very High,High,Low
+Assam,Chirang,Very High,High,Low
+Assam,Darrang,Very High,Very High,Low
+Assam,Dhemaji,Very High,Very High,Low
+Assam,Dhubri,Very High,Very High,Low
+Assam,Dibrugarh,Very High,Very High,Low
+Assam,Goalpara,Very High,High,Low
+Assam,Golaghat,Very High,High,Low
+Assam,Hailakandi,Very High,High,Low
+Assam,Hojai,Very High,High,Low
+Assam,Jorhat,Very High,High,Low
+Assam,Kamrup,Very High,Very High,Low
+Assam,Kamrup Metropolitan,Very High,Very High,Low
+Assam,Karbi Anglong,Very High,Moderate,Low
+Assam,Karimganj,Very High,High,Low
+Assam,Kokrajhar,Very High,High,Low
+Assam,Lakhimpur,Very High,Very High,Low
+Assam,Majuli,Very High,Very High,Low
+Assam,Morigaon,Very High,Very High,Low
+Assam,Nagaon,Very High,Very High,Low
+Assam,Nalbari,Very High,High,Low
+Assam,Sivasagar,Very High,High,Low
+Assam,Sonitpur,Very High,Very High,Low
+Assam,South Salmara-Mankachar,Very High,Very High,Low
+Assam,Tinsukia,Very High,Very High,Low
+Assam,Udalguri,Very High,High,Low
+Bihar,Araria,Very High,Very High,Low
+Bihar,Arwal,High,High,Low
+Bihar,Banka,High,High,Low
+Bihar,Begusarai,High,High,Low
+Bihar,Bhagalpur,High,Very High,Low
+Bihar,Bhojpur,High,Moderate,Low
+Bihar,Buxar,High,Moderate,Low
+Bihar,Darbhanga,Very High,Very High,Low
+Bihar,Gaya,High,Moderate,Low
+Bihar,Gopalganj,High,High,Low
+Bihar,Jamalpur,High,Moderate,Low
+Bihar,Kaimur,High,Moderate,Low
+Bihar,Katihar,Very High,Very High,Low
+Bihar,Lakhisarai,High,High,Low
+Bihar,Madhepura,Very High,Very High,Low
+Bihar,Madhubani,Very High,Very High,Low
+Bihar,Munger,High,Moderate,Low
+Bihar,Muzaffarpur,Very High,Very High,Low
+Bihar,Nalanda,High,Moderate,Low
+Bihar,Nawada,High,Moderate,Low
+Bihar,Pashchim Champaran,High,High,Low
+Bihar,Patna,High,Moderate,Low
+Bihar,Purba Champaran,Very High,Very High,Low
+Bihar,Purnia,Very High,Very High,Low
+Bihar,Rohtas,High,Moderate,Low
+Bihar,Saharsa,Very High,Very High,Low
+Bihar,Samastipur,Very High,Very High,Low
+Bihar,Sheikhpura,High,Moderate,Low
+Bihar,Sheohar,Very High,High,Low
+Bihar,Sitamarhi,Very High,Very High,Low
+Bihar,Supaul,Very High,Very High,Low
+Bihar,Vaishali,Very High,Very High,Low
