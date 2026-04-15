@@ -51,3 +51,19 @@ print("")
 
 
 
+# print(d.get('namea'))
+# d.update(marks=78)
+# d['pet']='horse'
+# print(d)
+# # d.clear()
+# # print(d)
+# print(d)
+# d.pop('marks')
+# print(d)
+  
+# for i in d:
+#     print(i)-
+# for i in d.items():
+#     print(i)
+# for i in d.values():
+#     print(i)
